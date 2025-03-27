@@ -17,10 +17,10 @@ How are you today??
 
 ![Alyson GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrianobr2663&show_icons=true&theme=highcontrast) 
 
+![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/user-attachments/assets/920b9301-c0e6-4474-8e67-1277f1f68e25)
+
 
 ![Alyson](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianobr2663&hide_progress=compact)
-
-![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/user-attachments/assets/920b9301-c0e6-4474-8e67-1277f1f68e25)
 
 
 ### Tecnologias Que Uso no Meu Dia Dia

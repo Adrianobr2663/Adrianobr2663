@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=900A0A&center=true&vCenter=true&width=435&lines=SEJAM+BEM+VINDOS;FIQUEM+A+VONTADE+PARA+EXPLORAR+%5E%5E)](https://git.io/typing-svg)
 
+![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/user-attachments/assets/66d81621-9843-447e-b0a7-10558d10c0dd)
+
+
 ### Olá! me chamo Adriano!🤠
 
 Hi! My name is Adriano!🤠

@@ -14,7 +14,7 @@ Tudo bom??🙃
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/adriano-alyson-1a2b82249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![Alyson GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrianobr2663&show_icons=true&theme=highcontrast)  ![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/user-attachments/assets/2fb14a11-bce6-48cc-821c-c53b8fb8781d)
+![Alyson GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrianobr2663&show_icons=true&theme=highcontrast) 
 
 
 ![Alyson](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianobr2663&hide_progress=compact)

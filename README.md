@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=601297&width=435&lines=SEJAM+BEM+VINDOS;FIQUEM+A+VONTADE+PARA+EXPLORAR+%5E%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=900A0A&width=435&lines=SEJAM+BEM+VINDOS;FIQUEM+A+VONTADE+PARA+EXPLORAR+%5E%5E)](https://git.io/typing-svg)
 
 
 ### Olá! me chamo Adriano!🤠

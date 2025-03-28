@@ -1,13 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=900A0A&center=true&vCenter=true&width=435&lines=SEJAM+BEM+VINDOS;FIQUEM+A+VONTADE+PARA+EXPLORAR+%5E%5E)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=header"/>
 
-
-### Olá! me chamo Adriano!🤠
-
-Hi! My name is Adriano!🤠
-
-How are you today??
-
-                                                                                                                                                                                                        
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=FFD700&width=435&lines=HELLO%2C+MY+NAME+is+ADRIANO+ALYSON;I'm+22+years+old+;I+from+S%C3%A3o+Paulo+Brazil)](https://git.io/typing-svg)
+                                                                                                                                                                                 
 ### My Social Media
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realdre_60s/) 

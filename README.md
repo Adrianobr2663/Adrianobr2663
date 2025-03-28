@@ -20,7 +20,7 @@
 ![Alyson](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianobr2663&hide_progress=compact)
 
 
-### Tecnologias Que Uso no Meu Dia Dia
+### Technologies I Use in My Daily Life
 
 ![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/user-attachments/assets/66d81621-9843-447e-b0a7-10558d10c0dd)
 

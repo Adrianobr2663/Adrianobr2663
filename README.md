@@ -9,6 +9,9 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/adriano-alyson-1a2b82249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
+### Donation
+
+[![Blog](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=MSEBYB8K3KVWY&no_recurring=0&item_name=I+am+trying+to+enroll+in+a+colege+for+systems+analysis+and+development%2C+but+I+do+not+yet+have+sufficient+conditions.&currency_code=BRL)
 
 ![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/user-attachments/assets/cc45f253-2523-48da-a053-a1a52ab89a77)
 

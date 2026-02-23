@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=FFD700&width=435&lines=HELLO%2C+MY+NAME+is+ADRIANO+ALYSON;I'm+22+years+old+;I+from+S%C3%A3o+Paulo+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=FFD700&width=435&lines=HELLO%2C+MY+NAME+is+ADRIANO+ALYSON;I'm+23+years+old+;I+from+S%C3%A3o+Paulo+Brazil)](https://git.io/typing-svg)
                                                                                                                                                                                  
 ### My Social Media
 
